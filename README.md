@@ -19,7 +19,7 @@ On the reverse is a smorgasbord of electronic goodies:
  * **ATSAMD21G18** @ 48MHz with 3.3V logic/power - 256KB of FLASH + 32KB of RAM
  * **8 MB of SPI Flash** for storing images, sounds, animations, whatever!
  * **3-axis accelerometer** (motion sensor)
- * **Light sensor, reverse-mount so that it points out the front
+ * **Light sensor**, reverse-mount so that it points out the front
  * **Mono Class-D speaker driver** for 4-8 ohm speakers, up to 2 Watts, with mini volume pot
  * LiPoly battery port with built in recharging capability
  * USB port for battery charging, programming and debugging
